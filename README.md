@@ -16,5 +16,6 @@ You’ll also learn how to interact with the popular **GitHub** platform:
 - Use projects as templates for new creations
 - Additional features and enhacements
 - New ideas
+- New words
 
 *Happy coding, and enjoy mastering Git and GitHub!* ✨
