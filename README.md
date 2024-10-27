@@ -19,5 +19,7 @@ You’ll also learn how to interact with the popular **GitHub** platform:
 - New words
 - Another line
 - Another line
+- Another line 3
+- ANother line 4
 
 *Happy coding, and enjoy mastering Git and GitHub!* ✨
