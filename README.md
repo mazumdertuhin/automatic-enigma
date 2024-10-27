@@ -17,5 +17,7 @@ You’ll also learn how to interact with the popular **GitHub** platform:
 - Additional features and enhacements
 - New ideas
 - New words
+- Another line
+- Another line
 
 *Happy coding, and enjoy mastering Git and GitHub!* ✨
