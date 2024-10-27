@@ -9,6 +9,7 @@
   - Working with branches
 
 ### 🚀 Bonus: Working with GitHub
+GitHub fundamentals:
 
 You’ll also learn how to interact with the popular **GitHub** platform:
 - Explore and navigate existing projects
