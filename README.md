@@ -14,5 +14,6 @@ You’ll also learn how to interact with the popular **GitHub** platform:
 - Explore and navigate existing projects
 - Clone repositories to your local machine
 - Use projects as templates for new creations
+- Additional features and enhacements
 
 *Happy coding, and enjoy mastering Git and GitHub!* ✨
